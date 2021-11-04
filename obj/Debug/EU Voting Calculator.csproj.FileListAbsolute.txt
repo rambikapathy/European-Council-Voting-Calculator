@@ -1,0 +1,58 @@
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe.config
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\bin\Debug\EU Voting Calculator.pdb
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\obj\Debug\EU Voting Calculator.csprojAssemblyReference.cache
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Form1.resources
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Properties.Resources.resources
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.GenerateResource.cache
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\obj\Debug\EU Voting Calculator.exe
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\EU Voting Calculator\obj\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe.config
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\bin\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Form1.resources
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Properties.Resources.resources
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\edit uwu\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.pdb
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe.config
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\bin\Debug\EU Voting Calculator.pdb
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.csprojAssemblyReference.cache
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Form1.resources
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Properties.Resources.resources
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.GenerateResource.cache
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.exe
+C:\Users\computing\Downloads\CMP1903M-Object-Oriented-Programming-Assessment-1-master\CMP1903M-Object-Oriented-Programming-Assessment-1-master\EU Voting Calculator\obj\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Form1.resources
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Properties.Resources.resources
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe.config
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\SAMS VER EDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe.config
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Form1.resources
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Properties.Resources.resources
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\UH MISSED A BIT just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe.config
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\bin\Debug\EU Voting Calculator.pdb
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csprojAssemblyReference.cache
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Form1.resources
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU_Voting_Calculator.Properties.Resources.resources
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.GenerateResource.cache
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.csproj.CoreCompileInputs.cache
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.exe
+C:\Users\skyri\Desktop\Tech\github projects\OK NOW COMMENT luv just comment this ver k ^^ EDITEDIT\CMP1903M-Object-Oriented-Programming-Assessment-1-sam-branch\EU Voting Calculator\obj\Debug\EU Voting Calculator.pdb
