@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EU Voting Calculator", "EU Voting Calculator.csproj", "{CB6AF7C0-0012-4845-B244-688B896B8161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB6AF7C0-0012-4845-B244-688B896B8161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6AF7C0-0012-4845-B244-688B896B8161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6AF7C0-0012-4845-B244-688B896B8161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6AF7C0-0012-4845-B244-688B896B8161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A5820A-055A-44C1-9472-A9BF1F1B8397}
+	EndGlobalSection
+EndGlobal
